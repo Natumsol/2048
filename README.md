@@ -3,7 +3,7 @@
 
 A famouse game implemented by Javascript
 
-You can see the demo in [this site](http://blog.natumsol.com/project/My%202048.htm).
+You can see the demo in [this site](http://blog.natumsol.com/project/2048/2048.htm).
 
 If you find any bugs,please contact me via natumsol@gmail.com
 
